@@ -9,7 +9,7 @@ const nextConfig = {
         hostname: 'i.ibb.co',
         port: '',
         pathname: '/p6SfQMcq/**',
-        search: 'antick chandra kuri',
+        search: '',
       },
     ],
   },
